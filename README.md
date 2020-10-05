@@ -4,7 +4,7 @@
 
 🧑 Thank you for visiting my Github repositories!
 
-📄 I write codes on HTML, CSS, Javascript, Typescript, React, Flutter/Dart, and Python.
+📄 I write codes on Python, Javascript, React, Typescript, HTML, CSS, Flutter/Dart and Node.js.
 
 🧡 I enjoy what I make and what I do.
 
