@@ -1,5 +1,4 @@
-# Beom Seok Kang
-
-### Hi, I am Beom Seok Kang
-
-🧑 Thank you for visiting my Github repositories
+```
+if __name__ == "__main__":
+  print("hello visitor!")
+```
